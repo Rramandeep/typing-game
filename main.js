@@ -54,6 +54,7 @@ const words = [
 'developer',
 'tester',
 'Quality',
+'Rajwinder',	
 'javascript'];
 
 //game start
